@@ -1,0 +1,37 @@
+{
+	"name": "YT Evolution",
+	"version": "2.1.12",
+	"download_url": "https://github.com/ronrichard1984/simple_user_cap/blob/main/simple_user_capabilities.zip",
+
+	"homepage": "https://www.itsocial.com.bd",
+	"requires": "5.4",
+	"tested": "6.2",
+	"last_updated": "2022-11-14 16:17:00",
+	"upgrade_notice": "Added update checker integration",
+
+	"author": "Tanvir Ahamed",
+	"author_homepage": "https://www.itsocial.com.bd",
+
+	"sections": {
+		"description": "ABC",
+		"installation": " Installation instructions.",
+		"changelog": "Change log: Test Abc"
+	},
+	
+	"icons" : {
+		"1x" : "http://w-shadow.com/files/external-update-example/assets/icon-128x128.png",
+		"2x" : "http://w-shadow.com/files/external-update-example/assets/icon-256x256.png"
+    },
+
+	"banners": {
+		"low": "https://trklicnse.com/wp-content/uploads/yt-evolution/yt_dashboard.png",
+		"high": "https://trklicnse.com/wp-content/uploads/yt-evolution/yt_dashboard.png"
+	},
+
+
+	"rating": 90,
+	"num_ratings": 371,
+
+	"downloaded": 1234,
+	"active_installs": 2345
+}
