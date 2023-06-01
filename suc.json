@@ -1,7 +1,7 @@
 {
 	"name": "YT Evolution",
 	"version": "2.1.12",
-	"download_url": "https://github.com/ronrichard1984/simple_user_cap/blob/main/simple_user_capabilities.zip",
+	"download_url": "https://github.com/ronrichard1984/simple_user_cap/raw/main/simple_user_capabilities.zip",
 
 	"homepage": "https://www.itsocial.com.bd",
 	"requires": "5.4",
